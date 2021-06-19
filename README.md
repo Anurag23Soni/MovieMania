@@ -1,0 +1,2 @@
+# MovieMania
+Create a web application to list movies available for a user. ❖ User should be able to search through the movies using the title and sort the result. ❖ When a selection is made it should go to the details page and present all the information available for that movie(Plot, Ratings, Poster, Stills etc). The user should be able to go back to the main page as well. ❖ There should also be a dedicated filter for the movies by Language or Location (drop down).
